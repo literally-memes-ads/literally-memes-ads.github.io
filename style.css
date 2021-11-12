@@ -1,0 +1,7 @@
+.rounded-box {
+	border-width: 0px;
+	border-radius: 5px;
+	background-color: lightgray;
+	margin: 20px;
+	padding: 8px 20px;
+}
